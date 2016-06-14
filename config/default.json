@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mysql": "mysql://root:@localhost:3306/talentdb",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "QRNlGBBR514c+rUkx+iP66ZlpIoUMI561Zja2MheFLNiHgdwCVrs/UFQ2tB0CJYWrj8AowYiBznlzfWPx634Dg=="
+    },
+    "local": {}
+  }
+}
